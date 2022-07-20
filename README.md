@@ -1,6 +1,6 @@
 # Personal Trainer
 
-Personal Trainer built using Angular6 and TypeScript
+Personal Trainer built using Angular 13 and TypeScript
 
 ## Install
 
